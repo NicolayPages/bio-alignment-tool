@@ -1,0 +1,1 @@
+export { AminoAcidAlign } from './AminoAcidAlign';
